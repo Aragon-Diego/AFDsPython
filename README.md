@@ -1,4 +1,8 @@
 # AFDsPython
+
+|       Name       |        Email              |   Role    |
+|  --------------  |   ----------------------- | --------- |
+|   Diego Aragón   |    diego.aragon@udem.edu  | Developer |
 ## parte 1
 Se implementa para el siguiente AFD:
 <p align="center"> 
