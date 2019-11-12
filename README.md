@@ -1,2 +1,2 @@
 "# AFDsPython" 
-![Alt text](./img1.png "fase 1")
+![Alt text](img1.png?raw=true "fase 1")
