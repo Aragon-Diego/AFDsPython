@@ -14,10 +14,10 @@ for i in cadena:
                 estadoA='muerto'
                 break
     else:
-        estadoA='merto'
+        estadoA='muerto'
         break
 if estadoA=='muerto':
-    print('cayo en el estado muerto')
+    print('En estado muerto')
 elif estadoA=='q2':
     print('aceptado')
 else:
