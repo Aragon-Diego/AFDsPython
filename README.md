@@ -17,3 +17,4 @@ Se implementa para el siguiente AFD:
 </p>
 
 ### fase 2
+Se implementa un AFD configurable
